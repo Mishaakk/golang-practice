@@ -2,9 +2,7 @@ package main
 
 import "fmt"
 
+
 func main() {
-	fmt.Println("Hello Game")
+	fmt.Println("CLI loading ...")
 }
-
-
-

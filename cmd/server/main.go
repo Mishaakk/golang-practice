@@ -2,9 +2,9 @@ package main
 
 import "fmt"
 
-func main() {
-	fmt.Println("Hello Game")
-}
 
+func main() {
+	fmt.Println("Server is loading ...")
+}
 
 
